@@ -4,7 +4,6 @@ import java.util.concurrent.ExecutorService;
 
 public class CalculateSumTask implements Callable<Integer> {
 
-
     private List<Integer> sumTask;
     private String taskName;
 
